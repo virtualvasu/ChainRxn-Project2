@@ -83,6 +83,8 @@ Deadline for submission: **5th July' 25**
 
 >**BONUS** marks will be awarded for any kind of unique thinking or cool side application related to the core concept of this project.
 
+See demo of a working solution here (for reference): https://drive.google.com/drive/folders/1rQp67A0Td-JShIDmIupQMBQzSy5IrQRV?usp=drive_link
+
 ---
 
 #### - **BIB** (Blockchain at IIT Bhilai)  
